@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Teaching in Juptyer 
+ - Here is a talk at Oregon State November 2024 [Link](https://docs.google.com/presentation/d/1_TM_XUbicqWM2mhp1W-djGv5TZAFTeBtwpqSTovm2Xs/edit?usp=sharing)
+
+
 <!--
 **ericvd-ucb/ericvd-ucb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
