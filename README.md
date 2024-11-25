@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on Teaching in Juptyer 
  - Here is a talk at Oregon State November 2024 [Link](https://docs.google.com/presentation/d/1_TM_XUbicqWM2mhp1W-djGv5TZAFTeBtwpqSTovm2Xs/edit?usp=sharing)
+ - Here is the lunchtime talk for lunchtime Demo [Link](https://docs.google.com/presentation/d/12t6f6WOYk6IQ_Z4wnYx-tZMUIGRJAsTTRlZhb3xYUHU/edit#slide=id.g2674842b179_0_114)
 
 
 <!--
