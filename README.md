@@ -4,7 +4,10 @@
 ### [github.com/ds-modules](https://github.com/ds-modules)
 
 ### Fall 2025
-- Workshop at Jupytercon on Small LM in Jupyterhub [LINK](https://docs.google.com/presentation/d/1xrKqxO2HhnPVqK3Mrq2iQFwdK8wuNiCqrl25bUCzuDk/edit?usp=sharing)
+- OpenAI Higher Education Guild  [Link](https://forum.openai.com/home/events/higher-education-guild-in-the-openai-forum-9gbnnhr6xc?agenda_day=68d2faec059abcc73707b57d&agenda_track=68d57e1bc80b6869d20efb80&agenda_stage=68d2faec059abcc73707b583&agenda_filter_view=track&agenda_view=list)
+- Github Universe 2025 Educator Track [Link](https://githubuniverse.com/)
+- Workshop at Jupytercon on Small LM in Jupyterhub [Link](https://docs.google.com/presentation/d/1xrKqxO2HhnPVqK3Mrq2iQFwdK8wuNiCqrl25bUCzuDk/edit?usp=sharing)
+- Talk at UCSD HDSI [Link](https://docs.google.com/presentation/d/1Tq9ejSK4BeXA8HQTGiIO4lowMu4-MNY9dxVkjeivNN4/edit?usp=sharing)
 🔭 
  ### Summer 2025
  - Joint talk at PEARC 25 with NRP [Link](https://docs.google.com/presentation/d/194QUhl5quxE14IjbiYA4yPkJwEmGl9NN/edit?usp=sharing&ouid=101663326369712854499&rtpof=true&sd=true)
