@@ -3,6 +3,8 @@
 ### [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
 ### [github.com/ds-modules](https://github.com/ds-modules)
 
+### Fall 2025
+- Workshop at Jupytercon on Small LM in Jupyterhub [LINK](https://docs.google.com/presentation/d/1xrKqxO2HhnPVqK3Mrq2iQFwdK8wuNiCqrl25bUCzuDk/edit?usp=sharing)
 🔭 
  ### Summer 2025
  - Joint talk at PEARC 25 with NRP [Link](https://docs.google.com/presentation/d/194QUhl5quxE14IjbiYA4yPkJwEmGl9NN/edit?usp=sharing&ouid=101663326369712854499&rtpof=true&sd=true)
