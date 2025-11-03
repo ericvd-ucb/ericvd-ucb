@@ -8,6 +8,7 @@
 - Github Universe 2025 Educator Track [Link](https://githubuniverse.com/)
 - Workshop at JupyterCon on Small LM in Jupyterhub [Link](https://docs.google.com/presentation/d/1xrKqxO2HhnPVqK3Mrq2iQFwdK8wuNiCqrl25bUCzuDk/edit?usp=sharing)
      - Demo at JupyterCon [Link](https://github.com/ds-modules/SmallLM-FA25)
+     - Demo of Training Material for Custom GPT [Link](https://github.com/data-88e/Making_training_material)
 - Talk at UCSD HDSI [Link](https://docs.google.com/presentation/d/1Tq9ejSK4BeXA8HQTGiIO4lowMu4-MNY9dxVkjeivNN4/edit?usp=sharing)
 🔭 
  ### Summer 2025
