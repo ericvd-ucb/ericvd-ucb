@@ -2,6 +2,7 @@
 ### [github.com/data-88e](https://github.com/data-88e)
 ### [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
 ### [github.com/ds-modules](https://github.com/ds-modules)
+### Dec 2024 - [Video of me talking Jupyter, AI, Vibecoding](https://data88e.org/textbook/)
 
 ### Fall 2025
 - OpenAI Higher Education Guild  [Link](https://forum.openai.com/home/events/higher-education-guild-in-the-openai-forum-9gbnnhr6xc?agenda_day=68d2faec059abcc73707b57d&agenda_track=68d57e1bc80b6869d20efb80&agenda_stage=68d2faec059abcc73707b583&agenda_filter_view=track&agenda_view=list)
