@@ -1,8 +1,8 @@
 ## I’m currently working on Teaching in Juptyer and Data Science Education 
-### [github.com/data-88e](https://github.com/data-88e)
-### [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
-### [github.com/ds-modules](https://github.com/ds-modules)
-### Dec 2024 - [Video of me talking Jupyter, AI, Vibecoding](https://data88e.org/textbook/)
+### [Data 88E](data88e.org) - Lower Division - first and second year Econ and DS course -  [github.com/data-88e](https://github.com/data-88e)
+### [Econ 148](econ148.org) - Upper Division - third/fourth year Econ and DS course -[github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
+### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
+### Dec 2025 - My Robot Teacher Podcast [Me talking Jupyter, AI, Vibecoding](https://calearninglab.org/myrobotteacher/mrt-8/)
 
 ### Fall 2025
 - OpenAI Higher Education Guild  [Link](https://forum.openai.com/home/events/higher-education-guild-in-the-openai-forum-9gbnnhr6xc?agenda_day=68d2faec059abcc73707b57d&agenda_track=68d57e1bc80b6869d20efb80&agenda_stage=68d2faec059abcc73707b583&agenda_filter_view=track&agenda_view=list)
