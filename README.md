@@ -1,4 +1,4 @@
-## I’m currently working on Teaching in Juptyer and Data Science Education 
+## I’m currently working on Teaching in Jupyter and Data Science Education 
 ### [Data 88E](data88e.org) - Lower Division - first and second year Econ and DS course -  [github.com/data-88e](https://github.com/data-88e)
 ### [Econ 148](econ148.org) - Upper Division - third/fourth year Econ and DS course -[github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
