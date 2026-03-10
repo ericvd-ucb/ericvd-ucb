@@ -2,9 +2,21 @@
 ### [Data 88E](data88e.org) - Lower Division - first and second year Econ and DS course -  [github.com/data-88e](https://github.com/data-88e)
 ### [Econ 148](econ148.org) - Upper Division - third/fourth year Econ and DS course -[github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
-### Dec 2025 - My Robot Teacher Podcast [Me talking Jupyter, AI, Vibecoding](https://calearninglab.org/myrobotteacher/mrt-8/)
+
+### Spring 2026
+
+- [NAIRR Pilot](https://events.internet2.edu/website/89730/home/) Tutorial - Teaching AI with Small Models - with Sean Morris - March 10, 2026
+     - [Slide Deck 1 - Jupyterhub, Small Models ](https://docs.google.com/presentation/d/1pHkNsEhVZVt1fodAtpcIaOgnvt8HDO5PRUu7xQGaBQk/edit?usp=sharing)
+     - [Slide Deck 2- NRP, Jetstream2 ](https://docs.google.com/presentation/d/1rPtyIPq9fQC91Vp4w3YESjVjqWAfS6ubUBB0x0rSDnA/edit?usp=sharing)
+     - [Github Repo of Teaching Materials](https://github.com/ds-modules/Small_Models_SP26/tree/main)
+
+
+- UCSD - [Poster on Building AI classrooms](https://drive.google.com/file/d/12f4w3P8LdlH8JE6wUVfEqDSAgU7u8SNb/view?usp=drive_link)
+- UCB - 
 
 ### Fall 2025
+- Dec 2025 - My Robot Teacher Podcast [Me talking Jupyter, AI, Vibecoding](https://calearninglab.org/myrobotteacher/mrt-8/)
+
 - OpenAI Higher Education Guild  [Link](https://forum.openai.com/home/events/higher-education-guild-in-the-openai-forum-9gbnnhr6xc?agenda_day=68d2faec059abcc73707b57d&agenda_track=68d57e1bc80b6869d20efb80&agenda_stage=68d2faec059abcc73707b583&agenda_filter_view=track&agenda_view=list)
 - Github Universe 2025 Educator Track [Link](https://githubuniverse.com/)
 - Workshop at JupyterCon on Small LM in Jupyterhub [Link](https://docs.google.com/presentation/d/1xrKqxO2HhnPVqK3Mrq2iQFwdK8wuNiCqrl25bUCzuDk/edit?usp=sharing)
