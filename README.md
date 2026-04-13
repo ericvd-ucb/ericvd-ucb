@@ -1,6 +1,10 @@
 ## I’m currently working on Teaching in Jupyter and Data Science Education 
-### [Data 88E](data88e.org) - Lower Division - first and second year Econ and DS course -  [github.com/data-88e](https://github.com/data-88e)
-### [Econ 148](econ148.org) - Upper Division - third/fourth year Econ and DS course -[github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
+### [Data88E.org](data88e.org) - Lower Division - first and second year Econ and DS course 
+-  [github.com/data-88e](https://github.com/data-88e)
+-  [edx offering](https://www.edx.org/certificates/professional-certificate/berkeleyx-data-88ex-economic-models-with-python)
+### [Econ148.org](econ148.org) - Upper Division - third/fourth year Econ and DS course 
+- [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
+
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
 
 ### Spring 2026
@@ -12,7 +16,7 @@
 
 
 - UCSD - [Poster on Building AI classrooms](https://drive.google.com/file/d/12f4w3P8LdlH8JE6wUVfEqDSAgU7u8SNb/view?usp=drive_link)
-- UCB - 
+- UCB - [Language and AI Conference](https://blc.berkeley.edu/language-ai-conference-2026)
 
 ### Fall 2025
 - Dec 2025 - My Robot Teacher Podcast [Me talking Jupyter, AI, Vibecoding](https://calearninglab.org/myrobotteacher/mrt-8/)
