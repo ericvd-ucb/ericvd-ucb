@@ -8,6 +8,7 @@
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
 
 ### Spring 2026
+- DeCal [DSS](https://docs.google.com/presentation/d/1laz7sAQdpWJ2gyh_3sRI5XjAQesTmnvodcoZ6bPIsvM/edit?usp=sharing)
 
 - [NAIRR Pilot](https://events.internet2.edu/website/89730/home/) Tutorial - Teaching AI with Small Models - with Sean Morris - March 10, 2026
      - [Slide Deck 1 - Jupyterhub, Small Models ](https://docs.google.com/presentation/d/1pHkNsEhVZVt1fodAtpcIaOgnvt8HDO5PRUu7xQGaBQk/edit?usp=sharing)
