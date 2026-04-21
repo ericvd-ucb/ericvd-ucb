@@ -8,6 +8,13 @@
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
 
 ### Spring 2026
+
+- AI Unlocked - CU Boulder [Agenda](https://www.colorado.edu/rc/ai-unlocked-empowering-higher-education-through-research-and-discovery)
+
+- NRP7 [Session on AI and Education](https://na.eventscloud.com/website/91919/agenda/) 
+
+- UC OSPO Open Summit [Course Infrastructure as Open-Source Projects](https://docs.google.com/presentation/d/1QrRNzGNS-eXaTQmaD3JxyPVsWKEPWrdPbPh8Zwy_k7k/edit?usp=sharing) 
+
 - DeCal [DSS](https://docs.google.com/presentation/d/1laz7sAQdpWJ2gyh_3sRI5XjAQesTmnvodcoZ6bPIsvM/edit?usp=sharing)
 
 - [NAIRR Pilot](https://events.internet2.edu/website/89730/home/) Tutorial - Teaching AI with Small Models - with Sean Morris - March 10, 2026
