@@ -11,6 +11,8 @@
 
 - AI Unlocked - CU Boulder [Agenda](https://www.colorado.edu/rc/ai-unlocked-empowering-higher-education-through-research-and-discovery)
 
+- UCB CTL - [Vibecoding for Curriculum](https://docs.google.com/presentation/d/1YiK3KFu8iIPKab1T5CYmep6XswDrWVIT6BQwqq14HOs/edit?usp=sharing) 
+
 - NRP7 [Session on AI and Education](https://na.eventscloud.com/website/91919/agenda/) 
 
 - UC OSPO Open Summit [Course Infrastructure as Open-Source Projects](https://docs.google.com/presentation/d/1QrRNzGNS-eXaTQmaD3JxyPVsWKEPWrdPbPh8Zwy_k7k/edit?usp=sharing) 
