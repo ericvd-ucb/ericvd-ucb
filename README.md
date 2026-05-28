@@ -21,7 +21,7 @@
 
 - AI Unlocked - CU Boulder / Denver  [Agenda](https://www.colorado.edu/rc/ai-unlocked-empowering-higher-education-through-research-and-discovery) - [Slides](https://docs.google.com/presentation/d/1JH8tgwx8SpXGOW9ip4ETuTNMF7bw4jE-b4ZnH4FAydE/edit?usp=drive_link)
 
-- UCB CTL - [Vibecoding for Curriculum](https://docs.google.com/presentation/d/1YiK3KFu8iIPKab1T5CYmep6XswDrWVIT6BQwqq14HOs/edit?usp=sharing) 
+- UCB CTL - [Vibecoding for Curriculum](https://docs.google.com/presentation/d/1YiK3KFu8iIPKab1T5CYmep6XswDrWVIT6BQwqq14HOs/edit?usp=sharing) [Make your own Chatbot](https://docs.google.com/presentation/d/1KuSew0bCLwMbwKq8vtKlyoQaciS6Ujdmfz5-hq3Drow/edit?usp=sharing)
 
 - NRP7 [Session on AI and Education](https://na.eventscloud.com/website/91919/agenda/) 
 
