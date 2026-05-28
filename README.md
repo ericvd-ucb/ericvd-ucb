@@ -9,7 +9,9 @@
 
 ### Spring 2026
 
-- AI Unlocked - CU Boulder [Agenda](https://www.colorado.edu/rc/ai-unlocked-empowering-higher-education-through-research-and-discovery)
+- CRA AI Training - Denver - Cloudbank Classroom Tutorial []
+
+- AI Unlocked - CU Boulder / Denver  [Agenda](https://www.colorado.edu/rc/ai-unlocked-empowering-higher-education-through-research-and-discovery) - [Slides](https://docs.google.com/presentation/d/1JH8tgwx8SpXGOW9ip4ETuTNMF7bw4jE-b4ZnH4FAydE/edit?usp=drive_link)
 
 - UCB CTL - [Vibecoding for Curriculum](https://docs.google.com/presentation/d/1YiK3KFu8iIPKab1T5CYmep6XswDrWVIT6BQwqq14HOs/edit?usp=sharing) 
 
