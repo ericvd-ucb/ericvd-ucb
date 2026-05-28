@@ -7,6 +7,14 @@
 
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
 
+### Infrastucture - Jupyterhubs for Teaching
+- [Cloubank Classroom](https://www.cloudbank.org/training/access-cloudbank-classroom) - [ACCESS Portal](https://allocations.access-ci.org/resources/cloudbank.access-ci.org)
+- [Cal-ICOR](https://www.cal-icor.org/)  - [Cal-ICOR Notebooks Library](https://cal-icor.github.io/textbook/) 
+- [UC Berkeley Jupyterhub](https://datahub.berkeley.edu/hub/login?next=%2Fhub%2F)      - [Deployments](https://docs.datahub.berkeley.edu/hubs.html)  - [Curriculum Guide](https://curriculum-guide.datahub.berkeley.edu/technology/introduction-to-jupyter/)
+
+
+## Talks and Presentations
+
 ### Spring 2026
 
 - CRA AI Training - Denver - Cloudbank Classroom Tutorial []
