@@ -6,6 +6,7 @@
 - [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
 
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
+- Small Models 26 [Jupyterbook](https://ds-modules.github.io/Small_Models_SP26/)   -    [Repo](https://github.com/ds-modules/Small_Models_SP26/tree/main)
 
 ### Infrastucture - Jupyterhubs for Teaching
 - [Cloubank Classroom](https://www.cloudbank.org/training/access-cloudbank-classroom) - [ACCESS Portal](https://allocations.access-ci.org/resources/cloudbank.access-ci.org)
