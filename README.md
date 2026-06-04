@@ -17,7 +17,7 @@
 
 ### Spring 2026
 
-- CRA AI Training - Denver - Cloudbank Classroom Tutorial []
+- CRA AI Training - Denver - Cloudbank Classroom Tutorial [Slides w Links](https://docs.google.com/presentation/d/1XT_LMXgVHcOQOzjlXzQrqoTRqDMhjulzeDeOYbT9TC4/edit?usp=sharing)
 
 - AI Unlocked - CU Boulder / Denver  [Agenda](https://www.colorado.edu/rc/ai-unlocked-empowering-higher-education-through-research-and-discovery) - [Slides](https://docs.google.com/presentation/d/1JH8tgwx8SpXGOW9ip4ETuTNMF7bw4jE-b4ZnH4FAydE/edit?usp=drive_link)
 
