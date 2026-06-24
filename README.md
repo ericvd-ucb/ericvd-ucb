@@ -2,6 +2,7 @@
 ### [Data88E.org](data88e.org) - Lower Division - first and second year Econ and DS course 
 -  [github.com/data-88e](https://github.com/data-88e)
 -  [edx offering](https://www.edx.org/certificates/professional-certificate/berkeleyx-data-88ex-economic-models-with-python)
+-  [open on workshop hub](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa25-student&urlpath=lab%2Ftree%2Ffa25-student%2F)
 ### [Econ148.org](econ148.org) - Upper Division - third/fourth year Econ and DS course 
 - [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
 
