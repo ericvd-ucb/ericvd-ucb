@@ -17,11 +17,14 @@
 
 ## Talks and Presentations
 
-### Spring 2026
+### Summer 2026
+- CRA MSI Expansion Conference [Slides w Links](https://docs.google.com/presentation/d/1j9_4Cf8uEmXe8t2XUau6VdQ4KB5LSgi4wYP7KljYd2w/edit?usp=sharing) 
 
 - CRA AI Training - Denver - Cloudbank Classroom Tutorial [Slides w Links](https://docs.google.com/presentation/d/1XT_LMXgVHcOQOzjlXzQrqoTRqDMhjulzeDeOYbT9TC4/edit?usp=sharing)
 
 - AI Unlocked - CU Boulder / Denver  [Agenda](https://www.colorado.edu/rc/ai-unlocked-empowering-higher-education-through-research-and-discovery) - [Slides](https://docs.google.com/presentation/d/1JH8tgwx8SpXGOW9ip4ETuTNMF7bw4jE-b4ZnH4FAydE/edit?usp=drive_link)
+
+### Spring 2026
 
 - UCB CTL - [Vibecoding for Curriculum](https://docs.google.com/presentation/d/1YiK3KFu8iIPKab1T5CYmep6XswDrWVIT6BQwqq14HOs/edit?usp=sharing) [Make your own Chatbot](https://docs.google.com/presentation/d/1KuSew0bCLwMbwKq8vtKlyoQaciS6Ujdmfz5-hq3Drow/edit?usp=sharing)
 
