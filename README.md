@@ -17,6 +17,10 @@
 
 ## Talks and Presentations
 
+### Fall 2026
+ - AI and the University, Panel Discussion at the University of Amsterdam [Slides](https://ericvd-ucb.github.io/AI_Edu_Talk_Oct26/) and [Repo](https://github.com/ericvd-ucb/AI_Edu_Talk_Oct26)
+      - *Note* this is my first attempt to vibecode the slides for the talk - details in repo
+
 ### Summer 2026
 - CRA MSI Expansion Conference [Slides w Links](https://docs.google.com/presentation/d/1j9_4Cf8uEmXe8t2XUau6VdQ4KB5LSgi4wYP7KljYd2w/edit?usp=sharing) 
 
