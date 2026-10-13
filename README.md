@@ -1,13 +1,13 @@
 ## I’m currently working on Teaching in Jupyter and Data Science Education 
 ### [Data88E.org](data88e.org) - Lower Division - first and second year Econ and DS course 
--  [github.com/data-88e](https://github.com/data-88e)
--  [edx offering](https://www.edx.org/certificates/professional-certificate/berkeleyx-data-88ex-economic-models-with-python)
--  [open on workshop hub](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa25-student&urlpath=lab%2Ftree%2Ffa25-student%2F)
+-  [github.com/data-88e](https://github.com/data-88e) /  [edx offering](https://www.edx.org/certificates/professional-certificate/berkeleyx-data-88ex-economic-models-with-python) /  [open on workshop hub](https://jupyter.cal-icor.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa25-student&urlpath=lab%2Ftree%2Ffa25-student%2F)
 ### [Econ148.org](econ148.org) - Upper Division - third/fourth year Econ and DS course 
-- [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/)
+- [github.com/UCB-Econ-148](https://github.com/UCB-Econ-148/) / [Vibecession NB - Jan26](https://github.com/UCB-Econ-148/sp26-student/blob/main/lec/lec2/vibecession-Jan26.ipynb)
 
 ### [Data Science Modules](https://cal-icor.github.io/textbook/) - Interdisciplinary Jupyter Notebooks [github.com/ds-modules](https://github.com/ds-modules)
 - Small Models 26 [Jupyterbook](https://ds-modules.github.io/Small_Models_SP26/)   -    [Repo](https://github.com/ds-modules/Small_Models_SP26/tree/main)
+- [Small Models in Jupyterlite !! (WebLLM and WebGPU)  ![Launch in JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ericvd-ucb.github.io/small-models-lite/) - [Repo](https://github.com/ericvd-ucb/small-models-lite)
+
 
 ### Infrastucture - Jupyterhubs for Teaching
 - [Cloubank Classroom](https://www.cloudbank.org/training/access-cloudbank-classroom) - [ACCESS Portal](https://allocations.access-ci.org/resources/cloudbank.access-ci.org)
@@ -18,7 +18,10 @@
 ## Talks and Presentations
 
 ### Fall 2026
- - AI and the University, Panel Discussion at the University of Amsterdam [Slides](https://ericvd-ucb.github.io/AI_Edu_Talk_Oct26/) and [Repo](https://github.com/ericvd-ucb/AI_Edu_Talk_Oct26)
+ - Machine Learning Workshop at Universidad Externado - *Bogota,  Colombia - October 19-20, 2026* 
+ - Data Science should count as a Math class - towards Quantitative Reasoning Gen Ed at CSU [Slides](https://docs.google.com/presentation/d/100SBlc73Scubx-xVqy9q8bb3Gp5BTo55CL_akzCS53E/edit?usp=sharing) *California Learning Lab INSPIRE Convening UCLA Oct 16, 2026*
+ - Data Science Modules Collaboration with El Camino College [Slides](https://docs.google.com/presentation/d/183qUD4hbHYTFoGfOb3QzEcSgAHqxlXQOMIJ95K-FXGI/edit?usp=sharing)  *California Learning Lab INSPIRE Convening UCLA Oct 15, 2026*
+ - AI and the University, *Panel Discussion at the University of Amsterdam* [Slides](https://ericvd-ucb.github.io/AI_Edu_Talk_Oct26/) and [Repo](https://github.com/ericvd-ucb/AI_Edu_Talk_Oct26)
       - *Note* this is my first attempt to vibecode the slides for the talk - details in repo
 
 ### Summer 2026
