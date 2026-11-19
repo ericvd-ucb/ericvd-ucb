@@ -18,6 +18,7 @@
 ## Talks and Presentations
 
 ### Fall 2026
+ - Jupyter Notebooks in the Classroom - *Universidad Europea de Madrid, Spain - November 19, 2026* [Slides](https://ericvd-ucb.github.io/Presentations26-27/2026-11-jupyter-europea/) and [Notebooks](https://github.com/ericvd-ucb/universidad-europea-collab)
  - Machine Learning Workshop at Universidad Externado - *Bogota,  Colombia - October 19-20, 2026* [Slides](https://ericvd-ucb.github.io/Colombia-26-slides/data_science_ai_era_outline.html) and [Notebooks](https://github.com/ericvd-ucb/Colombia-26-NB)
  - Data Science should count as a Math class - towards Quantitative Reasoning Gen Ed at CSU [Slides](https://docs.google.com/presentation/d/100SBlc73Scubx-xVqy9q8bb3Gp5BTo55CL_akzCS53E/edit?usp=sharing) *California Learning Lab INSPIRE Convening UCLA Oct 16, 2026*
  - Data Science Modules Collaboration with El Camino College [Slides](https://docs.google.com/presentation/d/183qUD4hbHYTFoGfOb3QzEcSgAHqxlXQOMIJ95K-FXGI/edit?usp=sharing)  *California Learning Lab INSPIRE Convening UCLA Oct 15, 2026*
