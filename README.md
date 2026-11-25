@@ -18,6 +18,7 @@
 ## Talks and Presentations
 
 ### Fall 2026
+- **Learning How to Learn with AI, and in Spite of It**, Universidad Europea de Madrid, Nov 2026: [slides](https://ericvd-ucb.github.io/Presentations26-27/2026-11-computing-europea/) · [PDF](https://ericvd-ucb.github.io/Presentations26-27/2026-11-computing-europea/learning-with-ai-slides.pdf)
  - Economics, Python and AI: Skills for Analytics Work - *UE Alcobendas, Spain - November 23, 2026* [Slides](https://ericvd-ucb.github.io/Presentations26-27/2026-12-business-analytics/)
  - Jupyter Notebooks in the Classroom - *Universidad Europea de Madrid, Spain - November 19, 2026* [Slides](https://ericvd-ucb.github.io/Presentations26-27/2026-11-jupyter-europea/) and [Notebooks](https://github.com/ericvd-ucb/universidad-europea-collab)
  - Machine Learning Workshop at Universidad Externado - *Bogota,  Colombia - October 19-20, 2026* [Slides](https://ericvd-ucb.github.io/Colombia-26-slides/data_science_ai_era_outline.html) and [Notebooks](https://github.com/ericvd-ucb/Colombia-26-NB)
